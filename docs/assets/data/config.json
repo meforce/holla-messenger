@@ -1,0 +1,27 @@
+{
+"alllist": [
+{
+"get": {
+"version": "1.0.0",
+
+"socketurl": "https://rtcmulticonnection.herokuapp.com:443/",
+"server_id": "hollamessenger-beta01-key-4513-78sa4d-asd22(-)(-)dA__???sCEWQrhFCasdsaaSd-8794a32s1d...-**/-asdas+34314d3sa1@ssEhaoPosr-/////***456amsadb",
+"server_password": "**/anan/**//baban**//1aQw-WeFL----__-oWeYUFcKsSfSxC70948*^%&/1..,,,1,2,.4axSehot77CrazyBoyDead7.43^+3qQ@as",
+
+"user_encryption_token": "token_exe_101_",
+
+"pwamobile_encryption_token": "token_crpty-_-*/-*/Diyaz_101lol102_",
+
+"registerTersm": "https://domain.com/terms",
+"registerPrivacy": "https://domain.com/privacy",
+
+"mail_securetoken": "868bf7bb-7a54-4964-991b-0e1d768b6e2f",
+"mail_host": "smtp.yandex.com",
+"mail_username": "hollatechnology@yandex.com",
+"mail_password": "360Dd?360",
+"mail_from": "hollatechnology@yandex.com"
+
+}
+}
+]
+}
