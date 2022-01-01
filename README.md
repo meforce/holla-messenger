@@ -1,6 +1,6 @@
 <h1 align="center">Holla Messenger</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/ic_launcher_round.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/ic_launcher_round.png" width="250" height="250" align="center"/><br><br>
+<img src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/ic_launcher_round.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/ic_launcher_round.png" width="200" height="200" align="center"/><br><br>
 Holla Messenger WebRTC
 <br><br> 
 <a href="https://github.com/meforce/holla-messenger/releases/latest">
