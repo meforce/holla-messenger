@@ -68,7 +68,7 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 <li>And more...</li>
 </ol>
 
-<h3>Mobile, PWA About Access Permissions</h3>
+## Mobile, PWA About Access Permissions
 
 <h4>-Storage Permit</h4>
 <p>To store Correspondence, Received Voice Recordings and Photos Files, your phone must have access to the storage partition.</p>
@@ -77,7 +77,7 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 <p>Requires this access to video chat or voice chat or send audio recordings</p>
 
 
-<h3>Requirements</h3>
+## Requirements
 <ol>
 <li>Node JS: v14+</li>
 <li>Npm: v6+</li>
@@ -85,7 +85,7 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 <li>capacitorjs 3+</li>
 </ol>
 
-<h2 id="item-description__updates">Updates</h2>
+## Updates
 
 <h5><strong>v1.0.0 </strong> 01 January 2022 </h5>
 <blockquote>
@@ -116,3 +116,24 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 <li>[Fixed] Fixes on settings page</li>
 <li>[Fixed] 20+ Reported bugs.</li>
 </blockquote>
+
+## RTCMultiConnection
+<p>
+RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
+</p>
+<p>
+RTCMultiConnection If you like it, don't forget to support it. Free to use and open source code.
+</p>
+<h4>License</h4>
+<p>
+<a href="https://github.com/muaz-khan/RTCMultiConnection">RTCMultiConnection</a> is released under <a href="https://github.com/muaz-khan/RTCMultiConnection/blob/master/LICENSE.md">MIT licence</a> . Copyright (c) <a href="https://muazkhan.com/">Muaz Khan.</a></p>
+
+<h4 align="center">Developed Independently by Me Force.</h4>
+<div align="center"> Holla Messenger BETA</div>
+<h6 align="center">
+Developed by. <a href="https://www.instagram.com/mertcetin.real">Mert Çetin</a> <br>
+Published documents of this project github (https://github.com/meforce/holla-messenger) Distribute outside of it is currently prohibited.<br><br>
+Me Force All rights reserved.<br>
+Is there a problem ? Contact Us Now. <b>mertcetin.official@gmail.com</b><br>
+More, Buy The Project -> <a href="https://codecanyon.net/user/mert_cetin/portfolio">Holla Messenger Buy</a>
+</h6>
