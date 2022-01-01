@@ -9,3 +9,112 @@ Holla Messenger WebRTC
 </p>
 
 <img src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/cover.jpg"/>
+
+
+## Download
+
+### Google Play - APK
+
+Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/releases/latest).<br>
+
+<a href="https://play.google.com/store/apps/details?id=com.hollamessenger.app"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-GOOGLE-PLAY&logo=git&logoColor=white&style=for-the-badge"></a>
+
+<p>Holla Messenger is a messaging app available for Android and other smartphones.</p>
+<p>Holla Messenger performs server storage and some functions without the need for a server. Does not use server-based database.</p>
+<p>Data transfer processes are instantaneously end-to-end encrypted.</p>
+<p>For the transactions to take place; The sender and receiver must be active.</p>
+
+<p>Holla Messenger uses your phone's Internet connection (4G/3G/2G/EDGE or Wi-Fi if available) to let you send and receive messages to family and friends.</p>
+
+<p>Holla Messenger aims to provide instant communication.</p>
+<p>So your information is safe. The data is encrypted end-to-end between the two parties and delivered to the receiver. It is not stored on the server. or not stored. New generation secure communication technology</p>
+
+<h3>RTCMultiConnection.js</h3>
+<p>WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)</p>
+<p>Holla Messenger uses rtcmulticonnection infrastructure.</p>
+<p>In this way, we get rid of a lot of workload.</p>
+<p>Ionic 5+ is a system built on capacitor 3+. <a href="https://www.rtcmulticonnection.org/">rtcmulticonnection</a> plugin is included in the system.</p>
+
+<h3>Features</h3>
+<ol>
+<li>Send Message</li>
+<li>Video or audio call</li>
+<li>Sound recording or sending photos</li>
+<li>End-to-end encryption</li>
+<li>Chat theme customization</li>
+<li>Dark Mode</li>
+<li>Delete message</li>
+<li>Adding a contact</li>
+<li>Holla Messenger WEB</li>
+</ol>
+
+<h3>Future Update Features v1.0.1</h3>
+<ol>
+<li>Create a group</li>
+<li>Group Chat</li>
+<li>Group voice and video calling</li>
+<li>Gif and stickers</li>
+<li>Location sharing</li>
+<li>User blocking</li>
+<li>More efficient user search feature</li>
+<li>I could not check the ios platform. I will test in future versions</li>
+<li>There is no administration panel. A section about moderation may be added in the next update.</li>
+<li>Message notifications when app is closed</li>
+<li>And more...</li>
+</ol>
+
+<h3>Mobile, PWA About Access Permissions</h3>
+
+<h4>-Storage Permit</h4>
+<p>To store Correspondence, Received Voice Recordings and Photos Files, your phone must have access to the storage partition.</p>
+
+<h4>-Camera and microphone Access</h4>
+<p>Requires this access to video chat or voice chat or send audio recordings</p>
+
+
+<h3 id="item-description__demo-links-downloads">Demo Links – Downloads</h3>
+<p>Google Play <a href="https://play.google.com/store/apps/details?id=com.hollamessenger.app">[v1.0.0-market]</a></p>
+<p>Direct Download `.apk .abb` File <a href="https://github.com/meforce/holla-messenger/releases/download/1.0.0/app-release.apk">[v1.0.0-apk]</a></p>
+<p>Direct <a href="https://meforce.github.io/holla-messenger/">[Holla Messenger Web]</a></p>
+
+
+<h3>Requirements</h3>
+<ol>
+<li>Node JS: v14+</li>
+<li>Npm: v6+</li>
+<li>ionic 5+</li>
+<li>capacitorjs 3+</li>
+</ol>
+
+<h2 id="item-description__updates">Updates</h2>
+
+<h5><strong>v1.0.0 </strong> 01 January 2022 </h5>
+<blockquote>
+<li>[Update] ionic +6</li>
+<li>[Update] capacitor +3</li>
+<li>[Added] Multi Language System, TR-EN-RU</li>
+<li>[Added] Sign out</li>
+<li>[Fixed] 99+ Reported bugs.</li>
+</blockquote>
+
+
+<h5><strong>v0.0.9 </strong> 10 December 2021 </h5>
+<blockquote>
+<li>[Fixed] 5 minutes sleep problem in the background on mobile devices</li>
+<li>[Fixed] pwa support</li>
+<li>[Fixed] dark mode</li>
+<li>[Update] ionic +5</li>
+<li>[Update] capacitor +3</li>
+<li>[Fixed] 30+ Reported bugs.</li>
+</blockquote>
+
+<h5><strong>v0.0.8 </strong> 10 November 2021 </h5>
+<blockquote>
+<li>[Update] ionic +4</li>
+<li>[Update] capacitor +2</li>
+<li>[Update] Infrastructure Improvements.</li>
+<li>[Update] Design Improvements.</li>
+<li>[Fixed] Fixes on settings page</li>
+<li>[Fixed] 20+ Reported bugs.</li>
+</blockquote>
