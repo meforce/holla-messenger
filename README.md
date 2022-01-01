@@ -20,6 +20,10 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 <a href="https://play.google.com/store/apps/details?id=com.hollamessenger.app"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-GOOGLE-PLAY&logo=git&logoColor=white&style=for-the-badge"></a>
 
+<p>Direct <a href="https://meforce.github.io/holla-messenger/">[Holla Messenger Web]</a></p>
+
+## Holla Messenger
+
 <p>Holla Messenger is a messaging app available for Android and other smartphones.</p>
 <p>Holla Messenger performs server storage and some functions without the need for a server. Does not use server-based database.</p>
 <p>Data transfer processes are instantaneously end-to-end encrypted.</p>
@@ -30,13 +34,13 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 <p>Holla Messenger aims to provide instant communication.</p>
 <p>So your information is safe. The data is encrypted end-to-end between the two parties and delivered to the receiver. It is not stored on the server. or not stored. New generation secure communication technology</p>
 
-<h3>RTCMultiConnection.js</h3>
+## RTCMultiConnection.js
 <p>WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)</p>
 <p>Holla Messenger uses rtcmulticonnection infrastructure.</p>
 <p>In this way, we get rid of a lot of workload.</p>
 <p>Ionic 5+ is a system built on capacitor 3+. <a href="https://www.rtcmulticonnection.org/">rtcmulticonnection</a> plugin is included in the system.</p>
 
-<h3>Features</h3>
+## Features
 <ol>
 <li>Send Message</li>
 <li>Video or audio call</li>
@@ -49,7 +53,7 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 <li>Holla Messenger WEB</li>
 </ol>
 
-<h3>Future Update Features v1.0.1</h3>
+## Future Update Features v1.0.1
 <ol>
 <li>Create a group</li>
 <li>Group Chat</li>
@@ -71,12 +75,6 @@ Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/
 
 <h4>-Camera and microphone Access</h4>
 <p>Requires this access to video chat or voice chat or send audio recordings</p>
-
-
-<h3 id="item-description__demo-links-downloads">Demo Links – Downloads</h3>
-<p>Google Play <a href="https://play.google.com/store/apps/details?id=com.hollamessenger.app">[v1.0.0-market]</a></p>
-<p>Direct Download `.apk .abb` File <a href="https://github.com/meforce/holla-messenger/releases/download/1.0.0/app-release.apk">[v1.0.0-apk]</a></p>
-<p>Direct <a href="https://meforce.github.io/holla-messenger/">[Holla Messenger Web]</a></p>
 
 
 <h3>Requirements</h3>
