@@ -18,7 +18,7 @@ Holla Messenger WebRTC
 Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/releases/latest).<br>
 
 <a href="https://play.google.com/store/apps/details?id=com.hollamessenger.app"> 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla?color=blue&label=CLICK-GOOGLE-PLAY&logo=git&logoColor=white&style=for-the-badge"></a>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla-messenger?color=blue&label=CLICK-GOOGLE-PLAY&logo=git&logoColor=white&style=for-the-badge"></a>
 
 <p>Direct <a href="https://meforce.github.io/holla-messenger/">[Holla Messenger Web]</a></p>
 
