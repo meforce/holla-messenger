@@ -1,6 +1,8 @@
 {
 "app_name": "Holla Messenger",
 "login_app_name": "Holla Messenger",
+"login_qr_info": "Giriş Yapabilmek için lütfen mobil uygulamanın aktif olması gerekir. Önce mobil ugulamadan oturum açmalısın.",
+"login_qr_info_cont": "Mobil Cihazım Yok. Devam Et",
 "stickers_title": "Çıkartmalar",
 "videos_title": "Videolar",
 "live_streams_title": "Canlı yayınlar",

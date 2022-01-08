@@ -1,6 +1,8 @@
 {
 "app_name": "Holla Messenger",
 "login_app_name": "Holla Messenger",
+"login_qr_info": "Обратите внимание, что для входа в систему мобильное приложение должно быть активным. Сначала вам нужно войти в систему из мобильного приложения.",
+"login_qr_info_cont": "Нет телефона. Продолжить нормально",
 "stickers_title": "Наклейки",
 "videos_title": "Видео",
 "live_streams_title": "Прямые трансляции",
