@@ -1,0 +1,55 @@
+.bd-placeholder-img { font-size: 1.125rem; text-anchor: middle; -webkit-user-select: none; -moz-user-select: none; user-select: none; }
+
+@media (min-width: 768px) {
+.bd-placeholder-img-lg { font-size: 3.5rem; }
+}
+
+.m-btn-primary { color: #0d6efd; background-color: transparent !important; border-color: #0d6efd !important; }
+
+@media (min-width: 1400px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+max-width: 1140px;
+}
+}
+
+.margincenter{ margin: 0 auto; }
+.me-auto-new { margin-right: 25px; margin-left: auto; }
+
+.logo {width: 100%; max-width: 200px;}
+.bg-color { background: white; }
+.nav-link { color: #3c3c3c; }
+.nav-item .active { color: #0d6efd; }
+.nav-item { margin-right: 5px; }
+
+.slidercover { background-position: center; background-size: cover; width: 100%; height: 100%; filter: brightness(0.7);}
+
+.nomargintop { margin-top: 0px !important; }
+.nomarginbottom { margin-bottom: 0px !important; }
+.nopadding { padding: 0px; }
+.dcenter{ display: flex; align-items: center; align-content: center; }
+.bd-placeholder-img { border-radius: 5px; }
+.heaingtee h2 { margin-top: 20px; }
+.footerlogo { width: 100%; max-width: 180px; }
+.marginright50 { margin-right: 50px; }
+.paddingbottom20 { padding-bottom: 20px; }
+
+a { text-decoration: auto; }
+.baseline { align-items: baseline; }
+
+.me-auto-new-2 { margin-right: auto; margin-left: auto; }
+.home2con { position: relative; z-index: 99; }
+.top70 { margin-top: -70px; }
+
+.home3 .container { text-align: center; display: block; }
+.home3 .nav-link { padding: 0.9rem 1rem; }
+@media (min-width: 768px) {
+.home3 .navbar-expand-md .navbar-nav .nav-link {
+padding-right: 1.1rem;
+padding-left: 1.1rem;
+}
+}
+.home3 .nav-contact .nav-link { padding: 9px 10px; }
+.home3 .carousel {
+margin-top: 7rem;
+margin-bottom: 0rem;
+}
