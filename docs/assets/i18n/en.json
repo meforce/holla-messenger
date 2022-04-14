@@ -1,8 +1,11 @@
 {
 "app_name": "Holla Messenger",
 "login_app_name": "Holla Messenger",
-"login_qr_info": "Please note that the mobile application must be active in order to login. You have to log in from the mobile app first.",
+"login_qr_info": "Log in to Holla Messenger by QR Code",
 "login_qr_info_cont": "No phone. Continue Normal",
+"login_qr_info_one": "1- Open Holla Messenger on your phone",
+"login_qr_info_two": "2- Go to <b>Settings > Scan QR Code</b>",
+"login_qr_info_three": "3- Point your phone at this screen to confirm login",
 "stickers_title": "Stickers",
 "videos_title": "Videos",
 "live_streams_title": "Live Streams",
@@ -188,6 +191,10 @@
 "backgroundaviblesinfo": "The application is running in the background",
 "backgrounokeys": "Okey",
 "deletechatsin": "Are you sure you want to delete this conversation? All content will be lost.",
-"darkmode": "Dark Mode"
+"darkmode": "Dark Mode",
+"qrlogin": "Scan QR Code",
+"qrscanreq": "QR Login Request",
+"menu": "Menu",
+"creategrops": "Creating a Group"
 }
 }

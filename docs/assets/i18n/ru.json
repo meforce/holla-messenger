@@ -1,8 +1,11 @@
 {
 "app_name": "Holla Messenger",
 "login_app_name": "Holla Messenger",
-"login_qr_info": "Обратите внимание, что для входа в систему мобильное приложение должно быть активным. Сначала вам нужно войти в систему из мобильного приложения.",
+"login_qr_info": "Войдите в Holla Messenger с помощью QR-кода",
 "login_qr_info_cont": "Нет телефона. Продолжить нормально",
+"login_qr_info_one": "1- Откройте Holla Messenger на своем телефоне.",
+"login_qr_info_two": "2 – Перейдите в раздел <b>Настройки > Сканировать QR-код</b>.",
+"login_qr_info_three": "3- Наведите свой телефон на этот экран, чтобы подтвердить вход",
 "stickers_title": "Наклейки",
 "videos_title": "Видео",
 "live_streams_title": "Прямые трансляции",
@@ -188,6 +191,10 @@
 "backgroundaviblesinfo": "Приложение работает в фоновом режиме",
 "backgrounokeys": "Окей",
 "deletechatsin": "Вы уверены, что хотите удалить этот разговор? Все содержимое будет потеряно.",
-"darkmode": "Темный режим"
+"darkmode": "Темный режим",
+"qrlogin": "Сканировать QR-код",
+"qrscanreq": "QR-запрос на вход",
+"menu": "Меню",
+"creategrops": "Создание группы"
 }
 }

@@ -1,8 +1,11 @@
 {
 "app_name": "Holla Messenger",
 "login_app_name": "Holla Messenger",
-"login_qr_info": "Giriş Yapabilmek için lütfen mobil uygulamanın aktif olması gerekir. Önce mobil ugulamadan oturum açmalısın.",
+"login_qr_info": "Holla Messenger'da QR Kodu ile oturum açın",
 "login_qr_info_cont": "Mobil Cihazım Yok. Devam Et",
+"login_qr_info_one": "1- Telefonunuzda Holla Messenger'ı açın",
+"login_qr_info_two": "2- <b>Ayarlar > QR Kodunu Tara</b> seçeneğine gidin",
+"login_qr_info_three": "3- Girişi onaylamak için telefonunuzu bu ekrana doğrultun",
 "stickers_title": "Çıkartmalar",
 "videos_title": "Videolar",
 "live_streams_title": "Canlı yayınlar",
@@ -188,6 +191,10 @@
 "backgroundaviblesinfo": "Uygulama arka planda çalışıyor",
 "backgrounokeys": "Tamam",
 "deletechatsin": "Bu konuşmayı silmek istediğine emin misin. Bütün içerikler kaybolacaktır.",
-"darkmode": "Gece Modu"
+"darkmode": "Gece Modu",
+"qrlogin": "QR Kodu Tara",
+"qrscanreq": "QR Giriş İsteği",
+"menu": "Menü",
+"creategrops":"Grup Oluştur"
 }
 }
